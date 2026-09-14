@@ -1,5 +1,9 @@
-# Hi everyone! 👋
+**Студент МФТИ Прикладная математика и информатика**
 
-### 🧠 I'm into Olympiad programming and I code in C++ and Python. 
-### 🏫 I graduated with honors from the Yandex Lyceum and I'm currently in the 10th grade at a class with a focus on physics and math.
-### ✍ Now the main focus is on the study of data structures and algorithms for sports programming.
+1800+ CodeForces
+
+Призер ВсОШ по информатике (программирование) 2026
+
+Победитель Технокубка 2026
+
+Призер Бельчонка по информатике 2025
